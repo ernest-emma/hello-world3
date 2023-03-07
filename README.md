@@ -1,2 +1,2 @@
 # hello-world3
-I love :coffee:, :pizza:, and 💃:,
+I love :coffee:, :pizza:, 💃:, and 🧑‍🎤:,
